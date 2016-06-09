@@ -1,0 +1,14 @@
+body {
+        background-color: #333333;
+}
+
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10%
+}
+msc {
+  display: none;
+}
