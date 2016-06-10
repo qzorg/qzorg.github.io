@@ -25,7 +25,18 @@ h1 {
 }
 
 p {
-  font: 400 80px/1.5 'Multi', sans-serif;
+  text-align: left;
+  margin-left: 18%;
+  margin-right: 25%;
+  font: 400 20px/1 'Muli', sans-serif;
+}
+
+p1 {
+text-align: left;
+  margin-left: 18%;
+  margin-right: 25%;
+  font: 400 10px/.2 'Muli', sans-serif;
+
 }
 h2 {
   text-align: center;
@@ -37,7 +48,7 @@ h3 {
   text-align: left;
   margin-left: 5%;
 text-decoration: none; background-color: none;
-  font: 400 70px/.5 'Multi', sans-serif;
+  font: 400 70px/.5 'Muli', sans-serif;
 }
 
 
